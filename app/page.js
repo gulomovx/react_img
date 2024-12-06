@@ -63,7 +63,7 @@ function App() {
       >
         <SyntaxHighlighter
           language={language}
-          style={vscDarkPlus} // VS Code-like theme
+          style={vscDarkPlus} 
           customStyle={{
             backgroundColor: 'transparent', // Use background from surrounding div
             color: fontColor,
